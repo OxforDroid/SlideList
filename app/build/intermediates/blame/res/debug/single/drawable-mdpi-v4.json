@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Projekts\\myandrapps\\SlideList2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bear.jpg",
+        "source": "E:\\Projekts\\myandrapps\\SlideList2\\app\\src\\main\\res\\drawable-mdpi\\bear.jpg"
+    },
+    {
+        "merged": "E:\\Projekts\\myandrapps\\SlideList2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\wulf.jpg",
+        "source": "E:\\Projekts\\myandrapps\\SlideList2\\app\\src\\main\\res\\drawable-mdpi\\wulf.jpg"
+    },
+    {
+        "merged": "E:\\Projekts\\myandrapps\\SlideList2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tigr.jpg",
+        "source": "E:\\Projekts\\myandrapps\\SlideList2\\app\\src\\main\\res\\drawable-mdpi\\tigr.jpg"
+    },
+    {
+        "merged": "E:\\Projekts\\myandrapps\\SlideList2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\leon.jpg",
+        "source": "E:\\Projekts\\myandrapps\\SlideList2\\app\\src\\main\\res\\drawable-mdpi\\leon.jpg"
+    },
+    {
+        "merged": "E:\\Projekts\\myandrapps\\SlideList2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Projekts\\myandrapps\\SlideList2\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

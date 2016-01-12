@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Slide</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <array name="data">
+        <item>корова</item>
+        <item>кошка</item>
+        <item>баран</item>
+        <item>курица</item>
+    </array>
+    <array name="data2">
+        <item>волк</item>
+        <item>лев</item>
+        <item>тигр</item>
+        <item>медведь</item>
+    </array>
+    <string name="title_activity_toys">Toys</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
